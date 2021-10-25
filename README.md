@@ -1,6 +1,6 @@
 # vasco-project-utils
 
-Series of utils done for the VASCO PROJECT
+Series of utils done for the [VASCO PROJECT](https://vasconsite.wordpress.com/)
 
 ## Finding duplicates (folder duplicated_candidates)
 
